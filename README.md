@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 | ------ | ------ |
 | [![Azure-Projects](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://github.com/tunckasik/Azure-assignments) | Azure Cloud Account Projects |
 | [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/tunckasik/terraform) | Terraform Projects includes modules and more! |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Linux Basics |
 | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/tunckasik/Python) | Python Basics |
+| [![Docker Containers](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/tunckasik/Docker) | Docker containerization |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Linux Basics |
 | [![Shell Script](	https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/tunckasik/Shell-Script) | Shell Script Basics |
 
 ##### Below are the repositories that I used during my QA Automation journey for Java, Selenium, Rest API Testing, Cucumber Framework, Jenkins, HTML&CSS.
