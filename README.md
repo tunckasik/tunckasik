@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### I am a Cloud DevOps Engineer and still improving my skills..
-
 ##### Throughout my Cloud DevOps Engineer and QA Automation journey, I have worked on various repositories, utilizing my technical skills in Azure and AWS cloud platform as well as in CI/CD tools, infrastructure automation and containerisation tools, monitoring automation tools, operating systems, version control and scripting languages, databases, and testing processes.
 ### [![Azure-Projects](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://github.com/tunckasik/azure.md) [![AWS-Projects](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tunckasik/aws.md)
 ### [![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)](https://github.com/tunckasik/CI-CD-Pipelines.md) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://github.com/tunckasik/CI-CD-Pipelines.md) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://github.com/tunckasik/CI-CD-Pipelines.md) 
